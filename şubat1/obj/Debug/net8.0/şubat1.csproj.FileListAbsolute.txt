@@ -1,0 +1,14 @@
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.AssemblyInfoInputs.cache
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.AssemblyInfo.cs
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.csproj.CoreCompileInputs.cache
+C:\Users\betül\source\repos\şubat1\bin\Debug\net8.0\şubat1.exe
+C:\Users\betül\source\repos\şubat1\bin\Debug\net8.0\şubat1.deps.json
+C:\Users\betül\source\repos\şubat1\bin\Debug\net8.0\şubat1.runtimeconfig.json
+C:\Users\betül\source\repos\şubat1\bin\Debug\net8.0\şubat1.dll
+C:\Users\betül\source\repos\şubat1\bin\Debug\net8.0\şubat1.pdb
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.dll
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\refint\şubat1.dll
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.pdb
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\şubat1.genruntimeconfig.cache
+C:\Users\betül\source\repos\şubat1\obj\Debug\net8.0\ref\şubat1.dll
